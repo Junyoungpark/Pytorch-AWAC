@@ -1,4 +1,4 @@
-# A PyTorch implementation for Advantage weighted Actor-Critic (AWAC)
+# A PyTorch implementation of Advantage weighted Actor-Critic (AWAC)
 
 ## Requirements
 
