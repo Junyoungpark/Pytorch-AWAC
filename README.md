@@ -72,7 +72,7 @@ It is confirmed that `AWAC` can learn better policy than its behavior policy in 
 
 ![offline AWAC](./images/online-awac.png)
 
-- Moreover, the `AWAC` didn't show the 'dip', a phenomenon that indicates sudden performance drop right after online training)
+- Moreover, the `AWAC` didn't show the 'dip', a phenomenon that indicates sudden performance drop right after online training
 
 ![offline AWAC](./images/no-dip.png)
 
